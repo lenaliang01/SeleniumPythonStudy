@@ -1,0 +1,31 @@
+# -*- coding: utf-8 -*-
+print 45678 + 0x12fd2
+
+print 'Learn Python in imooc'
+
+print 100<99
+print 0xff == 255
+
+print '\n'
+
+print 'Hello,python'
+print 'Hello,','python'
+
+print '\n'
+
+s='Python was started in 1989 by \"Guido\".\nPython is free and easy to learn.'
+print s
+
+print '\n'
+
+print r'''"To be, or not to be": that is the question.
+Whether it's nobler in the mind to suffer.'''
+
+print '\n'
+
+print 2.5+10.0/4
+
+print '\n'
+
+L = ['Adam',95.5,'Lisa',85,'Bart',59]
+print L
